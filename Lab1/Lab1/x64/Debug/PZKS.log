@@ -1,0 +1,10 @@
+﻿  Lexer.cpp
+C:\Users\User\source\repos\PZKS\Lexer.cpp(18,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\User\source\repos\PZKS\Lexer.cpp(21,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+C:\Users\User\source\repos\PZKS\Main.cpp(49,15): warning C4566: character represented by universal-character-name '\u2713' cannot be represented in the current code page (1251)
+C:\Users\User\source\repos\PZKS\Main.cpp(52,15): warning C4566: character represented by universal-character-name '\u2717' cannot be represented in the current code page (1251)
+  Parser.cpp
+  Tester.cpp
+  Generating Code...
+  PZKS.vcxproj -> C:\Users\User\source\repos\PZKS\x64\Debug\Lab1.exe
